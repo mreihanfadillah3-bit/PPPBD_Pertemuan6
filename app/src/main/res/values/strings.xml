@@ -1,6 +1,22 @@
 <resources>
-    <string name="app_name">MyTabLayout</string>
+    <string name="app_name">MyCourse</string>
     <string name="tab_text_1">Home</string>
     <string name="tab_text_2">Materi</string>
     <string name="tab_text_3">Quiz</string>
+
+    <!-- Home -->
+    <string name="class_name">Praktikum Pemrograman Perangkat Bergerak Dasar</string>
+    <string name="class_description_title">Deskripsi Kelas</string>
+    <string name="class_schedule">Lab dibuka 7.30\nPraktikum dimulai 7.45.</string>
+    <string name="class_grading_title">Prosentase Nilai</string>
+    <string name="class_grading_detail">• Tugas (25%)\n• Quiz (15%)\n• UTS (25%)\n• UAS (35%)</string>
+    <string name="cd_class_banner">Banner Kelas Praktikum</string>
+
+    <!-- Quiz Empty State -->
+    <string name="quiz_empty_title">Quiz Belum Dilaksanakan</string>
+    <string name="quiz_empty_subtitle">Belum ada quiz yang aktif saat ini. Silakan cek kembali saat jam praktikum berlangsung.</string>
+    <string name="cd_quiz_empty">Icon Quiz Belum Dilaksanakan</string>
+
+    <!-- Materi -->
+    <string name="materi_list_title">Daftar Materi Praktikum</string>
 </resources>

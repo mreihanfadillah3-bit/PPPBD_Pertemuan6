@@ -1,0 +1,32 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="140dp"
+    android:height="140dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+    <!-- Outer Circle Background -->
+    <path
+        android:fillColor="#E8EAF6"
+        android:pathData="M50,5A45,45 0 1 0 95,50A45,45 0 0 0 50,5Z"/>
+    <!-- Clipboard Outline -->
+    <path
+        android:fillColor="#9FA8DA"
+        android:pathData="M32,25L68,25A4,4 0 0 1 72,29L72,75A4,4 0 0 1 68,79L32,79A4,4 0 0 1 28,75L28,29A4,4 0 0 1 32,25Z"/>
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M34,29L66,29A2,2 0 0 1 68,31L68,73A2,2 0 0 1 66,75L34,75A2,2 0 0 1 32,73L32,31A2,2 0 0 1 34,29Z"/>
+    <!-- Clip Top -->
+    <path
+        android:fillColor="#3F51B5"
+        android:pathData="M42,21L58,21A2,2 0 0 1 60,23L60,27A2,2 0 0 1 58,29L42,29A2,2 0 0 1 40,27L40,23A2,2 0 0 1 42,21Z"/>
+    <!-- Lines on Paper -->
+    <path
+        android:fillColor="#C5CAE9"
+        android:pathData="M38,38H62V42H38ZvM38,48H58V52H38ZvM38,58H52V62H38Z"/>
+    <!-- Hourglass / Clock symbol -->
+    <path
+        android:fillColor="#3F51B5"
+        android:pathData="M65,58A12,12 0 1 0 77,70A12,12 0 0 0 65,58Z"/>
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M64,62H66V69H71V71H64Z"/>
+</vector>
